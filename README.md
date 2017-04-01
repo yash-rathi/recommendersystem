@@ -19,7 +19,7 @@ $ pip install pandas
 ```  
 2) **future**  
 future is the missing compatibility layer between Python 2 and Python 3. It allows you to use a single, clean Python 3.x-compatible codebase to support both Python 2 and Python 3 with minimal overhead.  
-Here, we are using __ future division__ statement which changes the normal division operation.  
+Here, we are using **future division** statement which changes the normal division operation.  
 ```
 $ pip install future
 ```  
