@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import time
 from function import *
-from scipy.stats import pearsonr
+#from scipy.stats import pearsonr
 
 def nl():
 	print "\n"
