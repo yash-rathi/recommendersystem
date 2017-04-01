@@ -1,3 +1,4 @@
+#functions taken from scipy.stats and changed according to the use
 #from __future__ import division
 import numpy as np
 import scipy.special as special
