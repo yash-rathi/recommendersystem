@@ -11,7 +11,8 @@ Pearson Correlation is used to find the correlation or similarity between two bo
 
   
 ## Prerequisites
-The following libraries or modules are required to run this code and how to install them  
+### Libraries or Modules
+The following **libraries** or **modules** are required to run this code and how to install them  
 1) **pandas**  
 pandas is a software library written for the Python programming language for data manipulation and analysis.
 ```
@@ -28,6 +29,15 @@ NumPy is the fundamental package for scientific computing with Python.
 ```
 $ pip install numpy
 ```
+  
+  
+### Theoretical Concept
+The following **concept** is also required  
+1) [**Pearson Correlation**](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)  
+Pearson's correlation coefficient is the covariance of the two variables divided by the product of their standard deviations.  
+OR  
+Pearson correlation score measures how much 2 variables change together divided by the product of how much they change individually. The more the variables change together relative to how they change individually, the higher the correlation.  
+It has a value between +1 and −1, where 1 is total positive linear correlation, 0 is no linear correlation, and −1 is total negative linear correlation.  
 
   
 ## Execution
